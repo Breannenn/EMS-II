@@ -1,0 +1,9 @@
+C:\Users\mikeh\Desktop\EMS_1-master\DemographicsLib\bin\Release\DemographicsLib.dll
+C:\Users\mikeh\Desktop\EMS_1-master\DemographicsLib\bin\Release\DemographicsLib.pdb
+C:\Users\mikeh\Desktop\EMS_1-master\DemographicsLib\bin\Release\SupportLib.dll
+C:\Users\mikeh\Desktop\EMS_1-master\DemographicsLib\bin\Release\SupportLib.pdb
+C:\Users\mikeh\Desktop\EMS_1-master\DemographicsLib\obj\Release\DemographicsLib.csprojAssemblyReference.cache
+C:\Users\mikeh\Desktop\EMS_1-master\DemographicsLib\obj\Release\DemographicsLib.csproj.CoreCompileInputs.cache
+C:\Users\mikeh\Desktop\EMS_1-master\DemographicsLib\obj\Release\DemographicsLib.csproj.CopyComplete
+C:\Users\mikeh\Desktop\EMS_1-master\DemographicsLib\obj\Release\DemographicsLib.dll
+C:\Users\mikeh\Desktop\EMS_1-master\DemographicsLib\obj\Release\DemographicsLib.pdb
